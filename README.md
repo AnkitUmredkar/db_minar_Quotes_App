@@ -26,6 +26,7 @@
 ### Tech Stack
 - **get** : This package use for efficient state management
 - **sqflite** : This package use for store budget data in database
+- **animations** : This package use for better anmations
 
 <h1 align="left"> </h1>
 
