@@ -21,6 +21,10 @@ features and a visually appealing interface.
 - Adjust font style, size, and color to your liking.
 - Make the quotes look just the way you prefer.
 
+## ✨ User-Friendly Interface
+- Intuitive and clean design that makes navigation a breeze.
+- Effortlessly explore quotes with just a few taps.
+
 ## ❤️ Liked Quotes
 - Save your favorite quotes with a simple tap.
 - Easily keep track of the quotes that inspire you.
