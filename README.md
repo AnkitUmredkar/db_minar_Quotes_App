@@ -35,8 +35,9 @@ features and a visually appealing interface.
 
 
 ### Tech Stack
-- **get** : This package use for efficient state management
-- **sqflite** : This package use for store budget data in database
+- **Flutter** : Framework for building the cross-platform mobile application.
+- **GetX** : This package use for efficient state management and navigation.
+- **SQLite** : Local SQL database for data storage and management.
 - **animations** : This package use for better anmations
 
 <h1 align="left"> </h1>
